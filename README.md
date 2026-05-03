@@ -1,2 +1,1 @@
-# reddit-demand-radar
-A local macOS research tool for identifying consumer iOS app ideas from public Reddit discussions.
+Reddit Demand Radar is a local macOS research tool for personal/internal use. It uses Reddit’s official API in a read-only manner to search selected public subreddits, retrieve public posts and limited public comments, and summarize common user pain points for consumer iOS app research. It does not post, comment, vote, message users, or redistribute Reddit content.
